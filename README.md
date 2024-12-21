@@ -31,6 +31,6 @@ Supermarket vs Grocery Store:
 Supermarkets drive higher sales volumes.
 Grocery stores excel in item visibility, providing a better customer experience.
 # 🛠 Tools and Technologies Used
-Data Cleaning & Transformation: Python (Pandas)
-Exploratory Data Analysis (EDA): Python (NumPy, Pandas)
-Data Visualization: Power BI
+- Data Cleaning & Transformation: Python (Pandas)
+- Exploratory Data Analysis (EDA): Python (NumPy, Pandas)
+- Data Visualization: Power BI
